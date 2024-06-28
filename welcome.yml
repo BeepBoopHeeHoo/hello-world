@@ -1,0 +1,3 @@
+theme: minima
+title: Pokemon Showdown AI + Pokemon World Navigation AI test
+description: Test to try and make an AI capable to completely play pokemon on its own, first by playing pokemon showdown for logic, and then learning how to move around the world. 
